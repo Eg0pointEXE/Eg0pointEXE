@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=SysAdmin+%7C+DevOps+%7C+Automation+%7C+AI&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!--
-**Eg0pointEXE/Eg0pointEXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eg0  
+**SysAdmin | DevOps | Automation & AI Integration**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+- 🖥 Infrastructure: Linux, Bash, Docker Compose  
+- 🛡 Security & Compliance: ISO 27001, audits, hardening  
+- ⚙️ Automation: CI/CD pipelines, scripts, orchestration  
+- 🤖 AI/ML Ops: integrating models into operational pipelines  
+- 📡 Monitoring & Logging: Prometheus, Grafana, ELK  
+
+---
+
+### Focus Areas
+- Hardened and scalable infrastructures  
+- Automated deployments and workflows  
+- Secure and compliant systems  
+- Data-driven operational improvements  
+
+---
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
