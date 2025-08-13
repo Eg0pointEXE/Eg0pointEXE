@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=SysAdmin+%7C+DevOps+%7C+Automation+%7C+AI&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=SysAdmin+%2F+DevOps+%2F+AI&animation=fadeIn&type=waving&color=9932CC&height=100"/>
 </p>
 
 ## Eg0  
