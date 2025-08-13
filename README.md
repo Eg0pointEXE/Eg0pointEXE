@@ -23,7 +23,3 @@
 - Secure and compliant systems  
 - Data-driven operational improvements  
 
----
-
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
