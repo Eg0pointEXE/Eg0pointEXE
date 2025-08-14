@@ -1,5 +1,4 @@
 <!-- Name -->
-
 ## Eg0  
 **SysAdmin | DevOps | Automation & AI Integration**
 
@@ -19,6 +18,8 @@
 - Automated deployments and workflows  
 - Secure and compliant systems  
 - Data-driven operational improvements  
+
+---
 
 <!-- Banner -->
 <p align="center">
